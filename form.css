@@ -1,0 +1,19 @@
+body{
+    background-image: url("dark_wood_@2X\ copy.png");
+}
+
+h2 {
+    background-color: burlywood;
+}
+
+form {
+    background-color: beige;
+}
+
+.form-group {
+    display: flexbox;
+    flex-direction: column;
+    flex-flow: column;
+}
+
+
